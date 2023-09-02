@@ -51,7 +51,7 @@ then
     check_success "images folder created" "error: cannot create folder"
 elif [[ -f "${repository}/images/stat.svg" ]]
 then
-    rm "${repository}/images/stat.svg" 
+    rm "${repository}/images/stat.svg"
     check_success "old images removed" "error: cannot remove images"
 fi
 
@@ -61,8 +61,8 @@ check_success "new image copied" "error: cannot replace image"
 
 cd "${repository}" || exit
 
-git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-git config user.name "GitHub Actions"
+git config user.email "59223300+nikhilbadyal@users.noreply.github.com"
+git config user.name "Nikhil Badyal"
 check_success "git credential added" "error: git credential wrong/missing"
 
 git remote add publisher "${remote_repo}"
