@@ -1,3 +1,7 @@
+**NOTE: This project is complete and requires no additional development at this stage. If you find an issue or have ideas for new features, please open an issue. In the meantime I am trying to migrate it from Python, until that happens this is all the project has to offer.**
+
+---
+
 <p align=center><img src="/waka.png"></p>
 <p align=center><a href="https://github.com/avinal/Profile-Readme-WakaTime/blob/master/LICENSE"><img src="https://img.shields.io/github/license/avinal/Profile-Readme-WakaTime" alt="License"></a> <a href="https://github.com/avinal/Profile-Readme-WakaTime/releases"><img src="https://img.shields.io/github/v/release/avinal/Profile-Readme-WakaTime" alt="Releases"></a> <a href="https://github.com/avinal/lark"><img src="https://img.shields.io/badge/uses-avinal%2Flark-blueviolet"></a> <img src="https://github.com/avinal/avinal/workflows/Build%20Graph/badge.svg" alt="Build"> <img src="https://wakatime.com/badge/github/avinal/Profile-Readme-WakaTime.svg" alt="Time Tracked"> <a href="https://github.com/avinal/Profile-Readme-WakaTime/discussions"><img src="https://img.shields.io/badge/QnA-Discussions-blueviolet"></a></p>
 
